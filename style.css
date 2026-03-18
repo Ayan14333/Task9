@@ -118,7 +118,7 @@ body{
 
 .hero-left button:hover{
     background-color: rgb(117, 135, 143);
-    transform: rotate(-7deg);
+    transform: rotate(-7deg) scale(1.1);
 }
 
 .hero-right{
